@@ -13,7 +13,7 @@
       })
       }
       catch(err){
-      throw err
+      wait_for_response_from('Me")
 }
 }
 })
