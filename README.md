@@ -2,8 +2,8 @@
 - 👀 I’m interested in Javascript, Node.js, React.js development
 - 🌱 I’m currently learning MERN stack development
 - 💞️ I’m looking to collaborate on full stack javasript web development
-- 📫 How_to_reach_me = (7987866994 || 9174195593) => {
-      MakeACall(7987866994).then((connectionErr, Feedback) => {
+- 📫 How_to_reach_me = (9174195593) => {
+      MakeACall(9174195593).then((connectionErr, Feedback) => {
       if(connectionErr){
       try {
         MakeACall(9174195593).then((connectionErr, Feedback) => {
